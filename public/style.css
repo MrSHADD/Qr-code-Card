@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Karla", sans-serif;
+    
+    background: hsl(212, 45%, 89%);
+    margin: 100px 400px;
+    left: 2;
+}
+
+.qr--img{
+    margin: 10px;
+    border-radius: 9px;
+    width: 230px;  
+}
+
+.div--app{
+    background: white;
+    width: 250px;
+    border-radius: 14px;
+    text-align: center;
+    height: 415px;
+}
+
+h2{
+    font-size: 18px;
+    font-style: bold;
+    padding: 1px 22px;
+    font-weight: 700;
+    font-family: Outfit;
+}
+
+p{
+    font-size: 13px;
+    padding: 1px 15px;
+    font-weight: 100;
+    font-family: Outfit;
+    color: gray;
+}
